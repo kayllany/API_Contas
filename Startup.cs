@@ -40,7 +40,7 @@ namespace contasAPagar
                         Name = "Kayllany Paes Bicudo",
                         Url = new Uri("https://github.com/kayllany/API_Contas.git")
                     },
-                    Description = "Primeira API criada com o ASP.NET Core"
+                    Description = "Criação da primeira API"
                 });
 
             });
